@@ -4,6 +4,8 @@
 🎓 **UESTC** | **Software Engineering B.S.**  
 💻 **Cloud Native & Distributed Systems Specialist**
 
+🐧 **Tecent & Infinigence & Momenta Intern**
+
 ### 🧠 About Me
 - 🔭 Currently building **large-scale model training/inference clusters** on Kubernetes
 - 🌱 Deep diving into **LLM fine-tuning & optimization techniques**
@@ -40,41 +42,31 @@
 | ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white) | NVIDIA推理加速引擎       |
 
 #### ☸️ Kubernetes生态
-| Technology                                                   | Description             |
-| ------------------------------------------------------------ | ----------------------- |
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | 容器编排平台核心        |
-| ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?logo=kubernetes&logoColor=white) | ML生命周期管理平台      |
-| ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white) | Kubernetes包管理器      |
-| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) | 监控与告警系统          |
-| ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) | 指标可视化平台          |
-| ![Argo](https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=white) | Kubernetes GitOps工作流 |
-| ![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white) | 服务网格与流量管理      |
-| ![Volcano](https://img.shields.io/badge/Volcano-FF5722?logo=apache&logoColor=white) | AI/ML作业调度器         |
+| Technology                                                   | Description        |
+| ------------------------------------------------------------ | ------------------ |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | 容器编排平台核心   |
+| ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?logo=kubernetes&logoColor=white) | ML生命周期管理平台 |
+| ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white) | Kubernetes包管理器 |
+| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) | 监控与告警系统     |
+| ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) | 指标可视化平       |
+| ![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white) | 服务网格与流量管理 |
+| ![Volcano](https://img.shields.io/badge/Volcano-FF5722?logo=apache&logoColor=white) | AI/ML作业调度器    |
+
+#### 🧩 AI Agent生态
+
+| Technology                                                   | Description                      |
+| ------------------------------------------------------------ | -------------------------------- |
+| ![LangChain](https://img.shields.io/badge/LangChain-00B0F0?logo=linktree&logoColor=white) | 模块化智能体框架，支持多模型集成 |
+| ![LangGraph](https://img.shields.io/badge/LangGraph-9333EA?logo=graphQL&logoColor=white) | 构建可执行图形化智能体的框架     |
+| ![OpenAI ReAct](https://img.shields.io/badge/ReAct-000000?logo=openai&logoColor=white) | 推理与行动结合的Agent决策模式    |
 
 #### 💻 核心语言
+
 | Technology                                                   | Description                |
 | ------------------------------------------------------------ | -------------------------- |
 | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | Kubernetes算子开发主要语言 |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ML模型开发通用语言         |
-| ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) | GPU加速计算                |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | 系统脚本与自动化           |
-
-#### ☁️ 云基础设施
-| Technology                                                   | Description        |
-| ------------------------------------------------------------ | ------------------ |
-| ![NVIDIA](https://img.shields.io/badge/NVIDIA_GPU-76B900?logo=nvidia&logoColor=white) | A100/H100 GPU集群  |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) | 云GPU与弹性计算    |
-| ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white) | TPU/GPU加速平台    |
-| ![Ceph](https://img.shields.io/badge/Ceph-EF5C24?logo=ceph&logoColor=white) | 分布式存储解决方案 |
-| ![InfiniBand](https://img.shields.io/badge/InfiniBand-FF9900?logo=nvidia&logoColor=white) | 高吞吐RDMA网络     |
-
-#### 🔄 MLOPs工具链
-| Technology                                                   | Description            |
-| ------------------------------------------------------------ | ---------------------- |
-| ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) | 实验跟踪与模型部署     |
-| ![KFServing](https://img.shields.io/badge/KFServing-326CE5?logo=kubernetes&logoColor=white) | Kubernetes原生模型服务 |
-| ![Ray](https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white) | 分布式计算框架         |
-| ![Weights&Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black) | 实验跟踪与协作平台     |
 
 ---
 
