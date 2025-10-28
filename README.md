@@ -15,7 +15,7 @@
 - 💬 Ask me about **Go, Kubernetes, or distributed training frameworks**
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-Roger_Lv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhongrenjie-lv-5588a928a/)
+[![LinkedIn](https://img.shields.io/badge/-Roger_Lv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhongrenjie-lyu-5588a928a/)
 
 ---
 
