@@ -4,13 +4,13 @@
 
 🎓 **UESTC** | **Software Engineering B.S.**  
 
-💻 **Cloud Native & Distributed Systems Specialist**
+💻 **Cloud Native & Agent & AI Infra**
 
 🐧 **Tecent & Infinigence & Momenta Intern**
 
 ### 🧠 About Me
 - 🔭 Currently building **large-scale model training/inference clusters** on Kubernetes
-- 🌱 Deep diving into **LLM fine-tuning & optimization techniques**
+- 🌱 Deep diving into **LLM fine-tuning & optimization techniques & Agent**
 - ⚙️ Developing **Kubernetes operators for AI workloads** using Go
 - 💬 Ask me about **Go, Kubernetes, or distributed training frameworks**
 
@@ -36,12 +36,9 @@
 | Technology                                                   | Description              |
 | ------------------------------------------------------------ | ------------------------ |
 | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | 模型开发与分布式训练框架 |
-| ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0A7CB5?logo=python&logoColor=white) | 大模型分布式训练优化     |
 | ![Megatron](https://img.shields.io/badge/Megatron-1572B6?logo=nvidia&logoColor=white) | NVIDIA大模型训练框架     |
 | ![FSDP](https://img.shields.io/badge/FSDP-0078D7?logo=azuredevops&logoColor=white) | 完全分片数据并行训练     |
 | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black) | 模型共享与Transformers库 |
-| ![vLLM](https://img.shields.io/badge/vLLM-800080?logo=python&logoColor=white) | 高吞吐推理服务框架       |
-| ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white) | NVIDIA推理加速引擎       |
 
 #### ☸️ Kubernetes生态
 | Technology                                                   | Description        |
